@@ -1,0 +1,95 @@
+canonical_identifier: bkk:krp/KR6f0033/v1
+canonical_location: https://kanripo.org/bkk/KR6f0033/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 聖善住意天子所問經
+  identifiers:
+    alt_id:
+    - T12n0341
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0341.xml
+    old_id: T12n0341
+  edition:
+    short: bkk
+editions:
+- short: 明
+  label: 明
+  source_xml_id: wit1
+- short: 宋
+  label: 宋
+  source_xml_id: wit2
+- short: 元
+  label: 元
+  source_xml_id: wit3
+- short: 宮
+  label: 宮
+  source_xml_id: wit4
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 聖
+  label: 聖
+  source_xml_id: wit6
+- short: 南藏
+  label: 南藏
+  source_xml_id: wit7
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6f0033_000.yaml, hash: 'sha256:2a71ff00fe9e55e5a2f223082c64cb841a185741f7441fe4411927e3b6566598'}
+  - {seq: 1, filename: KR6f0033_001.yaml, hash: 'sha256:fc50bd156530d5882dfc7fdef0721533f0983a1389c77d818bdd43b2384be12f'}
+  - {seq: 2, filename: KR6f0033_002.yaml, hash: 'sha256:a3271b04955caa346f487c226bb35bf76b8d30178aaea750c97f90eb0165439f'}
+  - {seq: 3, filename: KR6f0033_003.yaml, hash: 'sha256:b318e9e72e07d2bd910bf69ec73a1e28dcf09aad22dc78c1f1a76daee789bb19'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6f0033_000.markers.yaml, hash: 'sha256:0d058f03e3354f42efcedb892b21f60d70774f4d59980adca85363f2e9a18675'}
+  - {seq: 1, role: markers, filename: assets/KR6f0033_001.markers.yaml, hash: 'sha256:2860fa4740ca3802edaf892c50b90ae84e59e8f106985dcecda12f215d09d294'}
+  - {seq: 2, role: markers, filename: assets/KR6f0033_002.markers.yaml, hash: 'sha256:e92f2f9db09ab32b3af5426b6f0b1f56b0d7054ab651971c78bac9d688eb5c88'}
+  - {seq: 3, role: markers, filename: assets/KR6f0033_003.markers.yaml, hash: 'sha256:d4f917789d0d49de5013cb5b9edc905f2f47eb800dce91c956abdf565059f3de'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6f0033_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 翻譯之記
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6f0033_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 8071
+  label: 聖善住意天子所問經卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0033_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 8665
+  label: 聖善住意天子所問經卷中
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6f0033_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 8802
+  label: 聖善住意天子所問經卷下
+  type: juan
+  level: 1
+hash: sha256:232f43389508b271273c52ce4ad2d81d4a4670b088df6ef2f5726c8127819474
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
