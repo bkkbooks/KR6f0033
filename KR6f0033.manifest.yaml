@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6f0033/v1
 canonical_location: https://kanripo.org/bkk/KR6f0033/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 聖善住意天子所問經
   identifiers:
@@ -39,15 +39,15 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6f0033_000.yaml, hash: 'sha256:efea2e583f8a5953121e9b310be567c29bf0dfd20a7bef15627d40211dcb9766'}
-  - {seq: 1, filename: KR6f0033_001.yaml, hash: 'sha256:e437fb99a8a3dd313cdb0be5a169c9b98f22859a2641cc7982522347db85dd2f'}
-  - {seq: 2, filename: KR6f0033_002.yaml, hash: 'sha256:39c7d1db237f87f29fd28d5ee6a2b174764ad64930a8c9436a4fb181c8fcaf6d'}
-  - {seq: 3, filename: KR6f0033_003.yaml, hash: 'sha256:a04093a4ec6142a072d35e242b19e8ba03bb350d438992849daa2b0632daf2df'}
+  - {seq: 0, filename: KR6f0033_000.yaml, hash: 'sha256:03f96364de2cd5e648f692dccac15531f32dfac5796aba462f232483d0a2f72d'}
+  - {seq: 1, filename: KR6f0033_001.yaml, hash: 'sha256:92c72ce29a8ed3f3f3a98b654592a7f1d495d7971e00f6eb80624a06d8f87b3e'}
+  - {seq: 2, filename: KR6f0033_002.yaml, hash: 'sha256:7428c7f0628e05ef785eba08f78db8226479eeb289b057c4ae1e636cc5f10369'}
+  - {seq: 3, filename: KR6f0033_003.yaml, hash: 'sha256:5e4458b6e5b5f6ebb5eca054afca5f2a16798b6179ded6a839a138f1dd129d40'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6f0033_000.markers.yaml, hash: 'sha256:9083ca038033fc4733891ae2cfd483836c6441ee0f8b5239daa5d6adf758e501'}
-  - {seq: 1, role: markers, filename: assets/KR6f0033_001.markers.yaml, hash: 'sha256:47123b4d1bd4983d7932a8e578318e6cd11309db0b3ee65169f852cab8c09bff'}
-  - {seq: 2, role: markers, filename: assets/KR6f0033_002.markers.yaml, hash: 'sha256:4957ac8e57161e179ad976227262c6fb0c69abac4888fa1fd194f079ad89064e'}
-  - {seq: 3, role: markers, filename: assets/KR6f0033_003.markers.yaml, hash: 'sha256:554287bc3eb0204d75c8fe4ade5cadbde577df980587c634930d938e43ae3bb9'}
+  - {seq: 0, role: markers, filename: assets/KR6f0033_000.markers.yaml, hash: 'sha256:898f292ae049f527a431df02082522f3314b49e594ebb557ff8a5582c8e75c20'}
+  - {seq: 1, role: markers, filename: assets/KR6f0033_001.markers.yaml, hash: 'sha256:af941ca7968b20892e8cd1a3c2b32aefc3372d81b470c997464efb00307c6e22'}
+  - {seq: 2, role: markers, filename: assets/KR6f0033_002.markers.yaml, hash: 'sha256:06bba1a43d52b21a3f3a9d8158589b808054d9ed3e33fba17d80b5857672d193'}
+  - {seq: 3, role: markers, filename: assets/KR6f0033_003.markers.yaml, hash: 'sha256:9dc083d5d3c1a14ab4f7d96ab32aed6cd53f82e2585f8a5d760998593b0c4162'}
 table_of_contents:
 - ref:
     seq: 0
@@ -89,4 +89,7 @@ table_of_contents:
   label: 聖善住意天子所問經卷下
   type: juan
   level: 1
-hash: sha256:cc74795fc1a5985bec0e1f005094e8eba7c219ccbdf186724658b7e406cc0436
+hash: sha256:70403a4316a7369f7c3297132add1b00e0db193d542ab8fcac9152d74fbc133e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
