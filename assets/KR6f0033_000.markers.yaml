@@ -30,6 +30,7 @@ markers:
   - {type: punctuation, offset: 0, content: ']', id: KR6f0033_T_000-bkkpn23}
   - {type: line-break, offset: 0, content: '', id: KR6f0033_T_000-0115b03, ed: T, 'n': 0115b03}
   - {type: variant, offset: 0, length: 9, content: 聖善住意天子所問經, 明: '', 宋: 善住意天子所問經, 元: 善住意天子所問經, 宮: 善住意天子所問經}
+  - {type: voice, offset: 0, length: 0, name: note, id: n1}
   - {type: variant, offset: 11, length: 1, content: 之, 明: ''}
   - {type: line-break, offset: 13, content: '', id: KR6f0033_T_000-0115b04, ed: T, 'n': 0115b04}
   - {type: line-break, offset: 13, content: '', id: KR6f0033_T_000-0115b05, ed: T, 'n': 0115b05}
@@ -84,4 +85,4 @@ markers:
   - {type: line-break, offset: 159, content: '', id: KR6f0033_T_000-0115b16, ed: T, 'n': 0115b16}
   body: []
   back: []
-hash: sha256:898f292ae049f527a431df02082522f3314b49e594ebb557ff8a5582c8e75c20
+hash: sha256:3d0a64dfbc242088816b93754a408fd7817d80d8338eb99da3a3c04689b24aa4
