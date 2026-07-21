@@ -39,12 +39,12 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6f0033_000.yaml, hash: 'sha256:03f96364de2cd5e648f692dccac15531f32dfac5796aba462f232483d0a2f72d'}
+  - {seq: 0, filename: KR6f0033_000.yaml, hash: 'sha256:7293b24e3345d7e8a82834aa862121add2dddced1ca92ff84cab5ce1269001cf'}
   - {seq: 1, filename: KR6f0033_001.yaml, hash: 'sha256:92c72ce29a8ed3f3f3a98b654592a7f1d495d7971e00f6eb80624a06d8f87b3e'}
   - {seq: 2, filename: KR6f0033_002.yaml, hash: 'sha256:7428c7f0628e05ef785eba08f78db8226479eeb289b057c4ae1e636cc5f10369'}
   - {seq: 3, filename: KR6f0033_003.yaml, hash: 'sha256:5e4458b6e5b5f6ebb5eca054afca5f2a16798b6179ded6a839a138f1dd129d40'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6f0033_000.markers.yaml, hash: 'sha256:3d0a64dfbc242088816b93754a408fd7817d80d8338eb99da3a3c04689b24aa4'}
+  - {seq: 0, role: markers, filename: assets/KR6f0033_000.markers.yaml, hash: 'sha256:b6a5ec54af5236c2b3bbb3cadd92af1afa49db84fda186e5b80276067618636a'}
   - {seq: 1, role: markers, filename: assets/KR6f0033_001.markers.yaml, hash: 'sha256:af941ca7968b20892e8cd1a3c2b32aefc3372d81b470c997464efb00307c6e22'}
   - {seq: 2, role: markers, filename: assets/KR6f0033_002.markers.yaml, hash: 'sha256:06bba1a43d52b21a3f3a9d8158589b808054d9ed3e33fba17d80b5857672d193'}
   - {seq: 3, role: markers, filename: assets/KR6f0033_003.markers.yaml, hash: 'sha256:9dc083d5d3c1a14ab4f7d96ab32aed6cd53f82e2585f8a5d760998593b0c4162'}
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6f0033_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 翻譯之記
@@ -89,7 +89,7 @@ table_of_contents:
   label: 聖善住意天子所問經卷下
   type: juan
   level: 1
-hash: sha256:642c61a8e1cd54d12aa3fcdf581a464f448db32f58a9339777488aeb32910a7c
+hash: sha256:3bfe2cc8d6057c7d07574c16ef494e4e02db260b84df82c617896f8a38d23aa7
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

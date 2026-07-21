@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6f0033/t/v1/juan/0
 seq: 0
-front:
+body:
   text: 聖善住意天子所問經翻譯之記夫法留正像唯聖是依季行此世非賢豈伏三藏法師毗目智仙出自烏萇剎利王種幼履慈蹤長躡悲迹攝化群迷誡惡導善常為衆生不請之友執此法燈照彼昏暗魏皇都鄴崇福以資興和二年歲次實沈佛法加持出此經典名善住意天子所問建午閏月朔次丁丑戊寅建功乙巳畢功助譯弟子瞿曇流支對譯沙門曇林之筆庶俟存道敬法之賢如實印記示令不惑耳
   hash: sha256:9b7f9f5c57470081b83b25c62889443ff67a5e724eebcfa68a1a0af81c6faed4
   markers:
   - {type: 序, offset: 0, content: 翻譯之記, id: KR6f0033_T_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 聖善住意天子所問經
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/T/T12/T12n0341.xml
     old_id: T12n0341
-hash: sha256:03f96364de2cd5e648f692dccac15531f32dfac5796aba462f232483d0a2f72d
+hash: sha256:7293b24e3345d7e8a82834aa862121add2dddced1ca92ff84cab5ce1269001cf
